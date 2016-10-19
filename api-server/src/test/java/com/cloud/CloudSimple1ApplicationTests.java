@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import com.cloud.config.DemoProperties;
 
 @RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(Application.class)
+@SpringApplicationConfiguration(ApiApplication.class)
 public class CloudSimple1ApplicationTests {
 
 
